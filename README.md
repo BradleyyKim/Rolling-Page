@@ -1,7 +1,7 @@
 #  롤링페이지 (Rolling Page)
 
 ### 🔗Link
-<a href="https://rolling-page-git-develop-danopi.vercel.app/" target="_blank">DEMO</a>
+<a href="https://rolling-page-git-develop-danopi.vercel.app/" target="_blank">DEMO</a> (현재 서버문제로 접속에 이상이 있습니다.) 
 
 <div align='center'>
 <img src="https://user-images.githubusercontent.com/76831344/183794137-c9f1e410-3895-41bc-b26c-1bfe04222d69.png" width=100% />
